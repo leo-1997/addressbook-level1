@@ -2,5 +2,4 @@ apple
 pear
 pineaplle
 banana
-watermelon
 lemon
